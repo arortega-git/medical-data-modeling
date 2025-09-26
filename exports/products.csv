@@ -1,0 +1,31 @@
+product_id,product_name,category,manufacturer,unit_of_measure,regulatory_code,supplier_id
+1,Executive,Protective Gear,Clark PLC,piece,CE,9
+2,Under,Diagnostic,"Edwards, Rios and Foster",piece,CE,4
+3,Who,Protective Gear,"Ellis, Baker and Wright",batch,CE,19
+4,Option,Equipment,"Baker, Richards and Hurst",piece,CE,3
+5,Inside,Diagnostic,Robinson-Bright,piece,CE,18
+6,Mr,Diagnostic,Davis-Williams,batch,FDA,8
+7,Break,Equipment,Burton Ltd,batch,FDA,1
+8,Knowledge,Laboratory,"Brown, James and Ferrell",piece,FDA,11
+9,Newspaper,Consumables,Maddox-Valencia,piece,CE,11
+10,Activity,Surgical,"Le, Maldonado and Herrera",piece,FDA,4
+11,Example,Consumables,"Peterson, Carter and Moore",box,FDA,2
+12,About,Protective Gear,"Liu, Baker and Mason",box,CE,13
+13,Could,Surgical,"Gaines, Harrell and Evans",batch,FDA,20
+14,Purpose,Laboratory,"Lynch, Hernandez and Farmer",box,CE,3
+15,Notice,Surgical,"Sellers, George and Burns",batch,CE,10
+16,Brother,Surgical,Koch-Decker,piece,CE,13
+17,Food,Consumables,Brown PLC,box,FDA,6
+18,Your,Consumables,Miller Group,box,CE,9
+19,Team,Protective Gear,Spence PLC,batch,CE,20
+20,Space,Protective Gear,Anderson Group,piece,CE,6
+21,Your,Equipment,"Martin, Rose and Obrien",box,FDA,18
+22,Development,Diagnostic,"Campos, Vaughn and Marquez",batch,FDA,2
+23,Inside,Diagnostic,"Santos, Kim and Holmes",piece,FDA,13
+24,Camera,Consumables,Walker LLC,piece,CE,19
+25,Against,Protective Gear,"Spencer, Chapman and Smith",box,CE,16
+26,Second,Equipment,"Brown, Jones and Johnson",batch,FDA,5
+27,Give,Consumables,Palmer LLC,piece,CE,18
+28,Relationship,Pharmaceutical,Lewis-Anderson,box,FDA,19
+29,Worry,Equipment,"Johnston, Sanchez and Kennedy",box,CE,5
+30,Investment,Pharmaceutical,Davis Ltd,box,CE,2
